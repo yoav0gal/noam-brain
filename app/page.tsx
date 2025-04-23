@@ -1,6 +1,6 @@
-import JokeGenerator from "@/components/joke-generator"
-import Sponsors from "@/components/sponsors"
-import Image from "next/image"
+import JokeGenerator from "@/components/joke-generator";
+import Sponsors from "@/components/sponsors";
+import Image from "next/image";
 
 export default function Home() {
   return (
@@ -23,9 +23,11 @@ export default function Home() {
         <div className="w-full max-w-5xl">
           <div className="text-center mb-4 animate-pulse">
             <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-amber-800 mb-1 drop-shadow-md">
-              Tanoogaaaaaaayies Jokes
+              Taanoogiz Jokes
             </h1>
-            <p className="text-base sm:text-lg text-amber-700 italic">Noam's seconed brain ❤️ Yoav</p>
+            <p className="text-base sm:text-lg text-amber-700 italic">
+              Noam's seconed brain ❤️ Yoav
+            </p>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 sm:gap-6 mb-6">
@@ -54,5 +56,5 @@ export default function Home() {
       </main>
       <Sponsors />
     </div>
-  )
+  );
 }
