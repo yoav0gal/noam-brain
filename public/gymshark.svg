@@ -1,0 +1,15 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" fill="white" fill-opacity="0.01"/>
+  <!-- T-shirt -->
+  <path d="M60 40H140V120C140 120 120 140 100 140C80 140 60 120 60 120V40Z" fill="#3498DB"/>
+  <path d="M60 40H80C80 40 90 60 100 60C110 60 120 40 120 40H140" stroke="#2980B9" stroke-width="2"/>
+  
+  <!-- Shorts -->
+  <path d="M80 150H120V190C120 190 110 180 100 180C90 180 80 190 80 190V150Z" fill="#34495E"/>
+  <rect x="80" y="150" width="40" height="10" fill="#2C3E50"/>
+  
+  <!-- Shark Logo -->
+  <path d="M90 80L100 90L110 80" stroke="white" stroke-width="2"/>
+  <path d="M85 85L100 100L115 85" stroke="white" stroke-width="2"/>
+  <path d="M80 90L100 110L120 90" stroke="white" stroke-width="2"/>
+</svg>
